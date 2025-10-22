@@ -9,21 +9,21 @@ import Link from "next/link"
 
 const projects = [
   {
-    title: "Yuno",
+    title: "Face Recognition-based Online Meeting System",
     description:
-      "Yuno is an AI-powered career platform that helps users prepare for interviews through tailored, role-specific quizzes. It delivers personalized insights and question sets based on industry trends and user roles.",
+      " Online Meeting System with integrated face recognition for secure and efficient virtual collaboration.",
     image: "/yuno.png",
-    tags: ["Next.js", "Clerk", "Prisma", "Tailwind CSS", "Gemini API"],
-    demoUrl: "https://yuno-seven.vercel.app/",
-    githubUrl: "https://github.com/Uday9126/Yuno",
+    tags: ["Python", "MySQL", "HTML", "CSS", "JavaScript", "Visual Studio Code"],
+    demoUrl: "",
+    githubUrl: "",
     features: [
-      "Designed an AI-powered platform for tailored quiz-based interview preparation across 50+ industries.",
-      "mplemented dynamic role-specific question generation with real-time insights from market trends.",
-      "Achieved 80% quiz completion rate by optimizing question relevance, pacing, and overall user experience."
+      "Designed and developed an Online Meeting System with integrated face recognition for secure and efficient virtual collaboration.",
+      "Enhanced authentication and user experience through advanced face recognition technology.",
+      "Built a scalable system supporting multiple users and meetings for seamless collaboration."
     ],
   },
   {
-    title: "react-prompt-palette (NPM Package)",
+    title: "react-promtor",
     description:
       "A React + TypeScript library for saving, selecting, and managing AI prompt templates with localStorage support and styled Tailwind UI components — ideal for AI chat interfaces.",
     image: "/react-prompt-palette.png",
