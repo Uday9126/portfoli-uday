@@ -11,8 +11,8 @@ const projects = [
   {
     title: "Face Recognition-based Online Meeting System",
     description:
-      " Online Meeting System with integrated face recognition for secure and efficient virtual collaboration.",
-    image: "/yuno.png",
+      "Online Meeting System with integrated face recognition for secure and efficient virtual collaboration.",
+    image: "/generated-image.png",
     tags: ["Python", "MySQL", "HTML", "CSS", "JavaScript", "Visual Studio Code"],
     demoUrl: "",
     githubUrl: "",
